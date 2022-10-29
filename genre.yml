@@ -34,7 +34,7 @@ templates:
   genre_dynamic:
     default:
       sort_by: release.desc
-    url_poster: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager-Images/master/genre/<<key_name_encoded>>.jpg
+    url_poster: https://raw.githubusercontent.com/mariosemes/PMM-Stuff/master/images/genre/<<key_name_encoded>>.jpg
     smart_filter:
       sort_by: <<sort_by>>
       any:
